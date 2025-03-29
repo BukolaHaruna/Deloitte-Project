@@ -1,5 +1,6 @@
 # Deloitte Project
-This Project includes two tasks.
+This Project includes two tasks. <br/>
+
 Task 1: Identify the location where machines broke down the most and determine which specific machines had the highest failure rates in that location.
 
 Task 2: Create a new column labeled "Equality Class" that categorises equality scores into three types:
